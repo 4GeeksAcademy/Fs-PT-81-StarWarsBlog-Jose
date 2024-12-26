@@ -1,0 +1,15 @@
+.blueScrollbar{
+    scrollbar-color: rgb(172, 204, 252) transparent; 
+    scrollbar-width: thin;
+  }
+  
+  .redScrollbar{
+    scrollbar-color: rgb(240, 58, 53) transparent; 
+    scrollbar-width: thin;
+  }
+  
+  .purpleScrollbar{
+    scrollbar-color: rgb(153, 66, 192) transparent; 
+    scrollbar-width: thin;
+  }
+
